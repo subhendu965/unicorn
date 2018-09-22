@@ -2,5 +2,5 @@
 
 session_start();
 
-$db=mysqli_connect("localhost","unicorn","Tiku4&Vuchu5","unicorn");
+$db=mysqli_connect("<<your hostname>>","<<mysql account>>","<<mysql password>>","unicorn");
 ?>
